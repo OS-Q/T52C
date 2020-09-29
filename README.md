@@ -1,14 +1,17 @@
-﻿# [web cam](https://github.com/OS-Q/S20)
-[![sites](OS-Q/qitas.png)](http://www.OS-Q.com)
-#### 关联开发平台：[H10](https://github.com/OS-Q/H10)
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
+﻿# [web cam](https://github.com/OS-Q/W20)
 
-[EDGE-Q](https://github.com/OS-Q/EDGE-Q) -> Q[4] -> M[12] -> W[52] -> D[365] -> H[24] -> S[60]
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-### [方案描述](https://github.com/OS-Q/S20/wiki)
+* Q[4] - M[12] - W[52] - D[365] - H[24] - N[60] - S[60]
 
-[CAM](https://github.com/OS-Q/S20)用于获取图像和视频
+### [workspace描述](https://github.com/OS-Q/W20/wiki)
 
+[web cam](https://github.com/OS-Q/W20) 用于极简网络摄像头
 
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/S20)
-####  2019-8-25
+### [收录资源](https://github.com/OS-Q/)
+
+* [文档](docs/)
+* [工程](project/)
+* [资源](src/)
+
+### [OS-Q = Open Solutions | Open Source | Operating System ](http://www.OS-Q.com/W20)
