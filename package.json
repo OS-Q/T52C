@@ -1,0 +1,15 @@
+{
+  "name": "tool-agrv_logic",
+  "version": "1.0.0",
+  "description": "LOGIC toolkit for AgRV devices",
+  "keywords": [
+    "risc-v",
+    "supra",
+    "fpga",
+    "agrv",
+    "agm"
+  ],
+  "system": [
+    "windows_amd64"
+  ]
+}
